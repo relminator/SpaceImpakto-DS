@@ -28,7 +28,7 @@
 #include "cearn_atan.h"
 #include "GLFont.h"
 #include "OamFont.h"
-#include "level.h"
+#include "Level.h"
 
 // ------------ 3D Stuff --------------
 #include "VertexBuffer.h"
