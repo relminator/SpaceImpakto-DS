@@ -18,7 +18,7 @@
 ******************************************************************************/ 
 
 #include <nds.h>
-#include "Vector2Df32.h"
+#include "Vector2df32.h"
 
 #ifndef MATRIX2D_H
 #define MATRIX2D_H
